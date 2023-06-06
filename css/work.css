@@ -1,0 +1,19 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: currentColor;
+}
+
+@media (min-width: 1024px) {
+  .container {
+    --content-padding:2em ;
+  }
+}
+.u-container {
+  --content-padding: 10px;
+  display: grid;
+  grid-template-columns: minmax(var(--content-padding), auto) minmax(auto, 1600px) minmax(var(--content-padding), auto);
+  grid-template-areas: ". content .";
+  margin-bottom: 11rem;
+}/*# sourceMappingURL=work.css.map */

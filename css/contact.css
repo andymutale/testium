@@ -1,0 +1,142 @@
+/* contact form */
+.contact {
+  box-sizing: border-box;
+  position: relative;
+  width: 1440px;
+  height: 963px;
+  background: #CDCFBC;
+  border-radius: 2px;
+  /* Get in touch */
+  /* we would love to hear from you. */
+  /* Name */
+  /* Email Address */
+  /* Message... */
+  /* Contact Us */
+  /* Rectangle 53 */
+  /* Rectangle 54 */
+  /* Rectangle 55 */
+  /* Rectangle 56 */
+}
+.contact .title {
+  position: absolute;
+  width: 491px;
+  height: 95px;
+  left: 459px;
+  top: 65px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 85px;
+  text-align: center;
+  color: #000000;
+}
+.contact .heading {
+  position: absolute;
+  width: 728px;
+  height: 56px;
+  left: 341px;
+  top: 171px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+.contact .name {
+  position: absolute;
+  width: 73px;
+  height: 36px;
+  left: 388px;
+  top: 287px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  font-variant: small-caps;
+  color: #000000;
+}
+.contact .email-tag {
+  position: absolute;
+  width: 169px;
+  height: 36px;
+  left: 388px;
+  top: 413px;
+  line-height: 36px;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Poppins";
+  /* identical to box height */
+  font-variant: small-caps;
+  color: #000000;
+}
+.contact .message-tag {
+  position: absolute;
+  width: 124px;
+  height: 36px;
+  left: 388px;
+  top: 524px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  font-variant: small-caps;
+  color: #000000;
+}
+.contact .contact-us {
+  position: absolute;
+  width: 133px;
+  height: 36px;
+  left: 631px;
+  top: 814px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  font-variant: small-caps;
+  color: #E2E0D6;
+}
+.contact .field-1 {
+  position: absolute;
+  width: 634px;
+  height: 60px;
+  left: 386px;
+  top: 800px;
+  background: #3C3526;
+}
+.contact .field-2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 730px;
+  height: 179px;
+  left: 339px;
+  top: 566px;
+  background: #D9D9D9;
+}
+.contact .field-3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 728px;
+  height: 61px;
+  left: 339px;
+  top: 445px;
+  background: #D9D9D9;
+}
+.contact .field4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 728px;
+  height: 61px;
+  left: 339px;
+  top: 334px;
+  background: #D9D9D9;
+}/*# sourceMappingURL=contact.css.map */

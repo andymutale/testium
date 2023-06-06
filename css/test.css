@@ -1,0 +1,182 @@
+/* Vision */
+h1 {
+  position: absolute;
+  width: 219px;
+  height: 107px;
+  left: 629px;
+  top: 1327px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 96px;
+  text-align: center;
+  color: #060606;
+}
+
+/* what we believe */
+h2 {
+  position: absolute;
+  width: 596px;
+  height: 107px;
+  left: 409px;
+  top: 2531px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 96px;
+  text-align: center;
+  color: #060606;
+}
+
+/* our values */
+h2 {
+  position: absolute;
+  width: 596px;
+  height: 107px;
+  left: 400px;
+  top: 3636px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 96px;
+  text-align: center;
+  color: #060606;
+}
+
+/* Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Curabitur tempor quis eros tempus lacinia. Nam bibendum pellentesque quam a convallis. Nam pulvinar blandit velit, id condimentum diam faucibus at. Aliquam lacus nisi, sollicitudin at nisi nec, fermentum congue felis. */
+p {
+  position: absolute;
+  width: 1160px;
+  height: 665px;
+  left: 121px;
+  top: 2763px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 54px;
+  color: #000000;
+}
+
+/* Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Curabitur tempor quis eros tempus lacinia. Nam bibendum pellentesque quam a convallis. Nam pulvinar blandit velit, id condimentum diam faucibus at. Aliquam lacus nisi, sollicitudin at nisi nec, fermentum congue felis. */
+p {
+  position: absolute;
+  width: 1160px;
+  height: 665px;
+  left: 140px;
+  top: 3809px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 54px;
+  color: #000000;
+}
+
+/* Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. */
+p {
+  position: absolute;
+  width: 1160px;
+  height: 288px;
+  left: 118px;
+  top: 4540px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 54px;
+  color: #000000;
+}
+
+/* Our Mission */
+h2 {
+  position: absolute;
+  width: 596px;
+  height: 107px;
+  left: 337px;
+  top: 4969px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 96px;
+  text-align: center;
+  color: #060606;
+}
+
+/* Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. */
+p {
+  position: absolute;
+  width: 540px;
+  height: 555px;
+  left: 437px;
+  top: 5126px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 54px;
+  color: #000000;
+}
+
+/* Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. */
+p {
+  position: absolute;
+  width: 639px;
+  height: 500px;
+  left: 53px;
+  top: 1669px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 54px;
+  color: #000000;
+}
+
+/* Who Are We? */
+h2 {
+  position: absolute;
+  width: 596px;
+  height: 107px;
+  left: 50px;
+  top: 1509px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 96px;
+  text-align: center;
+  color: #060606;
+}
+
+/* Rectangle 64 */
+.img64 {
+  position: absolute;
+  width: 530px;
+  height: 699px;
+  left: 863px;
+  top: 1550px;
+  background: url(IMG_20201117_064440);
+}
+
+/*stuff grid*/
+.stuff-grid {
+  background: #f4f4f4;
+  padding: 4em 0;
+  display: grid;
+  grid-gap: 2em;
+  align-items: center;
+  grid-template-columns: minmax(1em, 1fr) repeat(2, minmax(200px, 400px)) minmax(1em, 1fr);
+}
+
+.from-right {
+  grid-column: 3/4;
+}
+
+.img {
+  width: 16px;
+}/*# sourceMappingURL=test.css.map */

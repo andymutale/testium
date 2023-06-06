@@ -1,0 +1,52 @@
+
+
+.bub
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: 2rem;
+
+    
+    grid-template-areas: 
+    "bub-1 bub-2 bub-3 bub-3"
+    "bub-1 bub-5 bub-4 bub-6"
+    "bub-7 bub-7 bub-8 bub-6"
+    ;
+
+}
+
+.bub-1
+{
+    grid-area: bub-1;
+}
+.bub-2
+
+{
+    grid-area: bub-2;
+}
+.bub-3
+{
+    grid-area: bub-3;
+}
+.bub-4
+{
+    grid-area: bub-4;
+}
+
+.bub-5
+{
+    grid-area: bub-5;
+}
+.bub-6
+{
+    grid-area: bub-6;
+}
+.bub-7
+{
+    grid-area: bub-7;
+}
+.bub-8
+{
+    grid-area: bub-8;
+}

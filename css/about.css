@@ -1,0 +1,30 @@
+
+
+*, ::before, ::after 
+{
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: currentColor;
+}  
+body
+{
+    margin: 0;
+    width: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+.site-header
+{
+    width: 100%;
+}
+.grid-1
+{
+    --gap-x: 2px;
+    --gap-y: 0;
+    --columns: 3;
+    display: grid;
+    grid-template-columns: repeat(var(--columns),1fr);
+    grid-gap: var(--gap-y) var(--gap-x);
+  }

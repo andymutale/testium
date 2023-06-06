@@ -1,0 +1,197 @@
+
+
+* 
+{
+    padding: 0;
+    margin: 0;
+}
+
+html 
+{
+    font-size: 100%;
+    text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  
+}
+
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video 
+{    
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+      font-size: inherit;
+    vertical-align: baseline;
+}
+
+button, html, input, select, textarea 
+{
+    color: #222;
+}
+
+body, html 
+{
+    text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html.has-scroll-smooth 
+{
+    overflow: hidden;
+}
+body 
+{
+    background: #55757a;
+    font-family: "NEIMA";
+    overflow: hidden;
+ 
+    line-height: 1;
+}
+
+.has-scroll-smooth [data-scroll-container] 
+{
+    min-height: 100vh;
+}
+
+.intro 
+{
+    position: relative;
+}
+.flex-center 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  .h-screen {
+    min-height: 100vh;
+    min-height: calc(var(--vh,1vh) * 100);
+  }
+
+
+  .intro .intro-reel {
+    position: absolute;
+    left: calc(50% - 10.6385vw);
+    width: 21.277vw;
+  }
+  .flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  .intro .intro-reel .reel-lottie {
+    position: absolute;
+    z-index: 99;
+    width: 21.429vw;
+    transform: scale(1.4);
+    opacity: 0;
+    transition: opacity .25s ease-out;
+  }
+
+
+
+
+  
+  .intro .intro-reel img {
+    position: absolute;
+    width: 21.429vw;
+    transform: rotateX('40deg')
+  }
+  img {
+    vertical-align: middle;
+  
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+
+    
+  }
+
+
+  .intro_container {
+    width: 100%;
+    transition: opacity .5s;
+  }
+
+
+  .intro .date-edition {
+    position: absolute;
+    left: 22.991vw;
+    margin-top: calc(var(--vh,1vh) * 1.75);
+    margin-top: 1.75vh;
+    font-size: .8333333333vw;
+    line-height: 1;
+    letter-spacing: 0;
+    text-transform: uppercase;
+    color: #dfd3c3;
+  }
+
+  h1 {
+    font-family: "NEIMA";
+    font-size: 13.0952380952vw;
+    line-height: 1;
+    letter-spacing: -.595vw;
+    color: #dfd3c3;
+    width: 100%;
+  }
+
+  .intro .o-hidden:first-child {
+    /*position: relative;*/
+    z-index: -2;
+    /*text-align: right;*/
+  }
+  .intro .o-hidden {
+    display: block;
+    white-space: nowrap;
+    pointer-events: none;
+  }
+  .o-hidden {
+    overflow: hidden;
+  }
+
+  .intro .o-hidden:last-child {
+    position: relative;
+    text-align: left;
+    margin-top: 2vh;
+    z-index: 10;
+  }
+  
+
+
+  /*fancy*/
+
+  .image {
+    width: 40vmin;
+    position: absolute;
+    transform: translate(-50%, -50%);
+  }
+  
+  .image[data-status="inactive"] {
+    display: none;
+  }
+  
+  .image[data-status="active"] {
+    display: block;
+  }
+  
+  /* -- YouTube Link Styles -- */
+  
+.fancy
+{
+  
+    background-color: black;
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden;
+    font-family: "Geraldine";
+    
+  
+}
+
+/*header line*/
+

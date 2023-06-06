@@ -1,0 +1,855 @@
+/* contact form */
+.contact
+{
+
+    box-sizing: border-box;
+
+    position: relative;
+    width: 1440px;
+    height: 963px;
+
+    background: #CDCFBC;
+
+    border-radius: 2px;
+
+    /* Get in touch */
+
+    .title
+
+    {
+        position: absolute;
+        width: 491px;
+        height: 95px;
+        left: 459px;
+        top: 65px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 85px;
+        text-align: center;
+
+        color: #000000;
+
+    }
+
+    /* we would love to hear from you. */
+    .heading
+    {
+        position: absolute;
+        width: 728px;
+        height: 56px;
+        left: 341px;
+        top: 171px;
+
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        color: #000000;
+    }
+
+    /* Name */
+    .name
+    {
+        position: absolute;
+        width: 73px;
+        height: 36px;
+        left: 388px;
+        top: 287px;
+
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+
+        /* identical to box height */
+        font-variant: small-caps;
+        color: #000000;
+    }
+
+    /* Email Address */
+    .email-tag
+    {
+
+        position: absolute;
+        width: 169px;
+        height: 36px;
+        left: 388px;
+        top: 413px;
+
+        line-height: 36px;
+        font-size: 24px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Poppins';
+
+
+        /* identical to box height */
+        font-variant: small-caps;
+        color: #000000;
+    }
+
+    /* Message... */
+    
+
+    .message-tag
+    {
+        position: absolute;
+        width: 124px;
+        height: 36px;
+        left: 388px;
+        top: 524px;
+
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        /* identical to box height */
+        font-variant: small-caps;
+
+        color: #000000;
+    }
+
+ 
+    /* Contact Us */
+
+    .contact-us
+    {
+         position: absolute;
+         width: 133px;
+         height: 36px;
+         left: 631px;
+         top: 814px;
+
+         font-family: 'Poppins';
+         font-style: normal;
+         font-weight: 400;
+         font-size: 24px;
+         line-height: 36px;
+
+
+         /* identical to box height */
+         font-variant: small-caps;
+         color: #E2E0D6;
+    }
+
+
+    /* Rectangle 53 */
+    .field-1
+    {
+
+        position: absolute;
+        width: 634px;
+        height: 60px;
+        left: 386px;
+        top: 800px;
+
+        background: #3C3526;
+    }
+
+    /* Rectangle 54 */
+    .field-2
+    {
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 730px;
+        height: 179px;
+        left: 339px;
+        top: 566px;
+
+        background: #D9D9D9;
+    }
+
+
+    /* Rectangle 55 */
+
+
+    .field-3
+   
+    {
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 728px;
+        height: 61px;
+        left: 339px;
+        top: 445px;
+
+        background: #D9D9D9;
+    }
+
+    /* Rectangle 56 */
+    .field4
+    {
+    
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 728px;
+        height: 61px;
+        left: 339px;
+        top: 334px;
+
+        background: #D9D9D9;
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+/* mobile-hero */
+
+box-sizing: border-box;
+
+position: relative;
+width: 390px;
+height: 796px;
+
+background: #404040;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 2px;
+
+
+/* 1 */
+
+position: absolute;
+width: 7px;
+height: 26px;
+left: 77px;
+top: 618px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+
+color: #F8FCFD;
+
+
+
+/* hero-img */
+
+position: absolute;
+width: 390px;
+height: 689px;
+left: 0px;
+top: 0px;
+
+background: url();
+
+
+/* logo */
+
+position: absolute;
+width: 144px;
+height: 22px;
+left: 38px;
+top: 9px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Line 20 */
+
+position: absolute;
+width: 29px;
+height: 0px;
+left: 336px;
+top: 20px;
+
+border: 1px solid #000000;
+
+
+/* Line 21 */
+
+position: absolute;
+width: 29px;
+height: 0px;
+left: 336px;
+top: 27px;
+
+border: 1px solid #000000;
+
+
+/* Line 22 */
+
+position: absolute;
+width: 23px;
+height: 0px;
+left: 336px;
+top: 34px;
+
+border: 1px solid #000000;
+
+
+/* searchbar */
+
+position: absolute;
+width: 245px;
+height: 35px;
+left: 72px;
+top: 672px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+
+/* 🦆 icon "search" */
+
+position: absolute;
+width: 24px;
+height: 23.37px;
+left: 97px;
+top: 678px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.87%;
+right: 69.66%;
+top: 85.18%;
+bottom: 12.21%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.54%;
+right: 68.97%;
+top: 87.4%;
+bottom: 11.89%;
+
+border: 2px solid #000000;
+
+
+/* Search */
+
+position: absolute;
+width: 56px;
+height: 24px;
+left: 161px;
+top: 678px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Sermon Series */
+
+position: absolute;
+width: 172px;
+height: 46px;
+left: 110px;
+top: 595px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+
+color: #000000;
+
+
+
+/* recent */
+
+position: absolute;
+width: 91px;
+height: 23px;
+left: 149px;
+top: 333px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* date-name */
+
+position: absolute;
+width: 113px;
+height: 14px;
+left: 138px;
+top: 389px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 15px;
+
+color: #646363;
+
+
+
+/* hero-text */
+
+position: absolute;
+width: 255px;
+height: 37px;
+left: 68px;
+top: 129px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 37px;
+font-variant: small-caps;
+
+color: #000000;
+
+
+
+/* title */
+
+position: absolute;
+width: 179px;
+height: 27px;
+left: 106px;
+top: 362px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+/* identical to box height */
+font-variant: small-caps;
+
+color: #000000;
+
+
+
+/* 🦆 icon "play circle" */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 163px;
+top: 232px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 41.79%;
+right: 41.79%;
+top: 29.15%;
+bottom: 62.81%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.36%;
+right: 46.72%;
+top: 31.56%;
+bottom: 65.23%;
+
+border: 2px solid #000000;
+
+
+/* text */
+
+position: absolute;
+width: 211px;
+height: 40px;
+left: 90px;
+top: 411px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* text */
+
+position: absolute;
+width: 211px;
+height: 40px;
+left: 90px;
+top: 457px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* series-grid */
+
+box-sizing: border-box;
+
+position: relative;
+width: 390px;
+height: 796px;
+
+background: #404040;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 2px;
+
+
+/* img3 */
+
+position: absolute;
+width: 167px;
+height: 107px;
+left: 13px;
+top: 174px;
+
+background: url(.jpg), #F4F9FC;
+border-radius: 5px;
+
+
+/* img4 */
+
+position: absolute;
+width: 172px;
+height: 107px;
+left: 207px;
+top: 174px;
+
+background: url(.jpg), #F4F9FC;
+border-radius: 5px;
+
+
+/* img2 */
+
+position: absolute;
+width: 172px;
+height: 108px;
+left: 207px;
+top: 30px;
+
+background: url(.jpg), #F4F9FC;
+border-radius: 5px;
+
+
+/* img5 */
+
+position: absolute;
+width: 167px;
+height: 108px;
+left: 13px;
+top: 316px;
+
+background: url(.jpg), #F4F9FC;
+border-radius: 5px;
+
+
+/* img6 */
+
+position: absolute;
+width: 172px;
+height: 107px;
+left: 207px;
+top: 316px;
+
+background: url(), #D9D9D9;
+border-radius: 5px;
+
+
+/* title6 */
+
+position: absolute;
+width: 150px;
+height: 24px;
+left: 207px;
+top: 424px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* title5 */
+
+position: absolute;
+width: 153px;
+height: 24px;
+left: 13px;
+top: 424px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* title3 */
+
+position: absolute;
+width: 135px;
+height: 24px;
+left: 13px;
+top: 281px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* title4 */
+
+position: absolute;
+width: 135px;
+height: 24px;
+left: 207px;
+top: 281px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* title2 */
+
+position: absolute;
+width: 160px;
+height: 24px;
+left: 207px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* series1 */
+
+position: absolute;
+width: 160px;
+height: 24px;
+left: 11px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* img1 */
+
+position: absolute;
+width: 169px;
+height: 107px;
+left: 11px;
+top: 31px;
+
+background: url(), #D9D9D9;
+border-radius: 5px;
+
+
+/* pages */
+
+position: absolute;
+width: 247px;
+height: 51px;
+left: 61px;
+top: 614px;
+
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 40px;
+height: 41px;
+left: 61px;
+top: 614px;
+
+background: #261C11;
+
+
+/* 2 */
+
+position: absolute;
+width: 29px;
+height: 46px;
+left: 127px;
+top: 619px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 29px;
+height: 46px;
+left: 175px;
+top: 619px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* . . . */
+
+position: absolute;
+width: 45px;
+height: 46px;
+left: 215px;
+top: 618px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* 7 */
+
+position: absolute;
+width: 29px;
+height: 46px;
+left: 279px;
+top: 619px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 7px;
+height: 26px;
+left: 77px;
+top: 618px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+
+color: #F8FCFD;
+
+

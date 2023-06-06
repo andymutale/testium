@@ -1,0 +1,36 @@
+.team {
+  height: 64vw;
+}
+
+.team .team-inner {
+  border-top: 1px solid rgba(154, 135, 96, 0.2);
+}
+
+.team .l {
+  width: 46vw;
+  flex: 0 auto;
+  background-color: antiquewhite;
+}
+
+.team .col {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.lor {
+  max-width: 85%;
+}
+
+.lor-big .big {
+  font-family: "NEIMA";
+  font-size: 1.25vw;
+  line-height: 1.8vw;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.lor-big {
+  font-weight: 300;
+  white-space: break-spaces;
+}/*# sourceMappingURL=slider.css.map */
